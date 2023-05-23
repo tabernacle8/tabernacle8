@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabernacle8" alt="tabernacle8" /></a> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **AWS EC2**
 
 - 📫 How to reach me **carterk800@gmail.com**
 
