@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Deploying on AWS**
 
-- 📫 How to reach me **carterk800@gmail.com**
+- 📫 How to reach me **contact@carterkosturos.com**
 
 - ⚡ Fun fact **I like dogs**
 
