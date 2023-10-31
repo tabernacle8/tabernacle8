@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **Deploying on AWS**
 
-- 📫 How to reach me **contact@carterkosturos.com**
-      You can find my GPG key <a href="https://github.com/tabernacle8/tabernacle8/blob/main/Tabernacle8_0xDC123A6E_public.asc">here</a>
+- 📫 How to reach me **contact@carterkosturos.com**   You can find my GPG key <a href="https://github.com/tabernacle8/tabernacle8/blob/main/Tabernacle8_0xDC123A6E_public.asc">here</a>
 
 - ⚡ Fun fact **I like dogs**
 
