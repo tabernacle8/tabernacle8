@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Deploying on AWS**
 
-- 📫 How to reach me **contact@carterkosturos.com** GPG:<a href="https://discord.gg/AvHvTfMC9J" target="blank">0x1E6DB7D0B103ECEF6CD66C1101BBCB76DC123A6E</a>
+- 📫 How to reach me **contact@carterkosturos.com** GPG:<a href="https://keyserver.ubuntu.com/pks/lookup?search=1E6DB7D0B103ECEF6CD66C1101BBCB76DC123A6E&fingerprint=on&op=index" target="blank">0x1E6DB7D0B103ECEF6CD66C1101BBCB76DC123A6E</a>
 
 - ⚡ Fun fact **I like dogs**
 
